@@ -9,3 +9,5 @@ Most of these assets come from [RTI + IQ Hackathon](https://microsoftapc.sharepo
 1. Using the [Fabric IQ Accelerator](https://github.com/microsoft/fabriciq-accelerator/tree/main) , you can use VS Code copilot to create Ontology entities, relationships, bindings with both static and timeseries data within 10 minutes. Here is a video showing how to do it. You can pick up example airline_ontology_package.iq and fabriciq_ontology_accelerator-0.1.0-py3-none-any.whl from the assets folder of this repository.
 
 [Vibe Code Ontology](https://github.com/SuryaTejJosyula/Fabric-IQ-and-RTI-assets/blob/main/Repo%20assets/Vibe%20coding%20Ontology.mp4)
+
+https://github.com/user-attachments/assets/8ce74b63-9b3a-4c78-aee3-3c363c35fc34
